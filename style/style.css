@@ -18,3 +18,8 @@ h2 {
 p {
     text-align: justify;
 }
+img {
+	border-radius: 8px;
+	width: 512px;
+	margin: 5px;
+}
